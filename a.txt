@@ -1,11 +1,4 @@
 
 vvvvvv
 wwwwwww
-<<<<<<< Updated upstream
-vvv
-vv
-test
-=======
-hhh
-
->>>>>>> Stashed changes
+2222
